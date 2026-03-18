@@ -151,3 +151,11 @@ App Django Full Stack que gerencia compras no mercado
         return render(request,"delete_item.html")
 
 `
+
+
+## Templates e Sctatics
+
+> Os templates e statics possuem arquivos html e css para cada rota da aplicação. Assim a manutenção se torna mais rápida e autentica.
+![teste](templates_statics)
+
+
