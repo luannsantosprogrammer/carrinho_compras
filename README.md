@@ -56,7 +56,7 @@ App Django Full Stack que gerencia compras no mercado
             fields = ["name_product", "price", "amount"]
 `
 
-## Urls
+## Urls:
 > Essas são as urls do projeto
 
 `
@@ -75,7 +75,7 @@ App Django Full Stack que gerencia compras no mercado
 
 `
 
-## Views
+## Views:
 
 > No arquivo views, desenvolvi as seguintes funções:
   1. **create_user**: instancio a classe de autentificação e criação de usuário e renderizo na página da rota **create_user**. Nesta mesma função criei a validação da criação do usuário.
@@ -153,7 +153,7 @@ App Django Full Stack que gerencia compras no mercado
 `
 
 
-## Templates e Sctatics
+## Templates e Sctatics:
 
 > Os templates e statics possuem arquivos html e css para cada rota da aplicação. Assim a manutenção se torna mais rápida e autentica.
 ![teste](templates_statics)
